@@ -1,7 +1,7 @@
 # Site wide configuration
 
-title:
-description:
+title: Shiraha Society 
+description: A website for Shiraha's Welfare society and Investment group
 logo: # 120x120 px default image used for Twitter summary card
 teaser: # 400x250 px default teaser image used in image archive grid
 locale:
@@ -20,10 +20,10 @@ gems:
 
 
 # Site owner
-owner:
-  name:
-  email:
-  twitter:
+owner: 
+  name: Shiraha Welfare Society
+  email: info@shiraha.org
+  twitter: 
   google:
     ad-client: 
     ad-slot: 

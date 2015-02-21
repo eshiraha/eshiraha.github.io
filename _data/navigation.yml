@@ -1,6 +1,16 @@
 # Site navigation links
 
-- title:
-  url:
-  excerpt:
+- title: About
+  url: /about/
+  excerpt: "A brief history of the Welfare society"
+  image:
+
+- title: Meetings
+  url: /meetings/
+  excerpt: "Planned meetings for the year, dates plus their venues and hosts"
+  image:
+
+- title: Archives
+  url: /archive/
+  excerpt: "A collection of articles posted in the past"
   image:
