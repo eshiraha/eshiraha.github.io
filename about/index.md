@@ -16,4 +16,5 @@ There is, therefore, a distortion of facts in as far as the current Shiraha Welf
 Great effort was then made to reach possible members of the new Society. Fred Andayi Akolo, Evans Arthur Mukolwe and James Khachula Opindi hit the road and visited various Nairobi estates in an effort to convince Shiraha people to join the Society.
 The Society aimed to create relevance for the Shiraha Nairobi Community with the home community, assist members in times of difficulties, locate each other’s residences and enable members’ children know each other, among other aims.
 The first meeting and the subsequent ones were held at Ngong' Hills Hotel until the group was branded elitist by many potential members. It was then decided that meetings would be hosted by members in their houses on a rotational basis once every month.
+
 The baby has come of age, we thank the Almighty God!!
