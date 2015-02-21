@@ -1,4 +1,8 @@
-THE HISTORY OF SHIRAHA WELFARE SOCIETY
+---
+layout: article
+permalink: /about/
+---
+
 In the mid-70s, a few individuals took an initiative to try and bring together people from Shiraha living in Nairobi, and eventually form a Shiraha Welfare Society. These individuals included, among others, Achwang'a wa Akhome, Anywa wa Gadi, Cleopas Atanda we Lihoywa, Esala we Lihoywa, James Musita we Lihoywa, Eshiachili wa Sechieli, Naaman Manyasa, Charles Manyasa, Joseph Omusula Abuko - Treasurer, Fred Andayi Akolo and Evans Arthur Mukolwe. Because most of these people were residents of Mathare Valley, many meetings took place in Mathare Valley.
 
 
