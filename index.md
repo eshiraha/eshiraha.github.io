@@ -1,7 +1,6 @@
 ---
 layout: archive
 permalink: /
-title: "Latest Posts"
 image:
   feature: shiraha_society.jpg
 ---
